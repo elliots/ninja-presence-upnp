@@ -1,0 +1,16 @@
+{
+  "name": "ninja-presence-upnp",
+  "version": "0.0.0",
+  "description": "",
+  "main": "upnp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": "",
+  "author": "Elliot Shepherd <elliot@ninjablocks.com>",
+  "license": "BSD",
+  "dependencies": {
+    "ninja-presence-base": "git://github.com/elliots/ninja-presence-base",
+    "upnp-controlpoint": "git://github.com/stormboy/node-upnp-controlpoint"
+  }
+}
