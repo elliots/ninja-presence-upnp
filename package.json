@@ -1,7 +1,7 @@
 {
   "name": "ninja-presence-upnp",
   "version": "0.0.0",
-  "description": "",
+  "description": "NinjaBlocks Presence driver - UPNP (Mac, Linux, Windows)",
   "main": "upnp.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
